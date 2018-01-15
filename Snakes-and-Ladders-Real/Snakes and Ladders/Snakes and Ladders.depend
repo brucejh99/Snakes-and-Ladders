@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515185014 source:c:\users\bjhon.desktop-d32jnba\documents\new folder\snakes and ladders\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<limits>
+	<ctime>
+
